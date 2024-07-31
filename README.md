@@ -1,2 +1,2 @@
 # Cpp-codes
-Author :- Siddhant Junnare
+Author - Siddhant Junnare
